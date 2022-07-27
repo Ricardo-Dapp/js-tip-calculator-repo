@@ -1,7 +1,7 @@
 // Variables
 let people = Number(peopleCount.innerText);
 
-// HTML Elements
+// DOM Elements
 billTotal = document.getElementById("billTotalInput");
 tipAmount = document.getElementById("tipInput");
 peopleCount = document.getElementById("peopleCount");
